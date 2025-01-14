@@ -1,6 +1,8 @@
 # DT-Assignment(Task 1)
 Made a replica of [Figma Design](https://www.figma.com/design/K9XvDU57V3MAvpEt8JFM4o/Web-Development-Assignment?node-id=20287-17&t=bliPF2OfQOTcO41D-0) provided by the team of DT.
+
 You can check out live demo [here](https://deepthought-task-1.netlify.app/)
+
 ## Tech Stack
 > 1. React
 > 2. HTML
